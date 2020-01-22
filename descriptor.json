@@ -1,5 +1,5 @@
 {
-    "name": "W_NeuronTracing_vaa3d_mst",
+    "name": "NeuronTracing_vaa3d_mst",
     "container-image": {
         "image": "neubiaswg5/w_neurontracing_vaa3d_mst",
         "type": "singularity"
